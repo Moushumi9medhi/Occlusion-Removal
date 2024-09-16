@@ -26,7 +26,7 @@ The IITKGP_Fence dataset can be found here.............link.......It consists of
 
 <p align="center">
   <picture>
-    <img alt="Evaluation on IITKGP_Fence dataset" src="./assets/table2.png" width="100%">
+    <img alt="Evaluation on IITKGP_Fence dataset" src="./assets/table2.PNG" width="100%">
   </picture>
 </p>
 
