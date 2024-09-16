@@ -13,12 +13,6 @@ Occlusion Removal from a Single Image
 
 This repo provides a link.......link......... to the IITKGP_Fence dataset used in the paper...............link..................
 
-<p align="center">
-  <picture>
-    <img alt="training curve" src="./assets/training-curve.png" width="75%">
-  </picture>
-</p>
-
 # IITKGP_Fence dataset
 The IITKGP_Fence dataset can be found here.............link.......It consists of images containing fence-like occlusions along with the ground truth annotations. We created the ground truth labels in a semi-automatic way with user interaction. 
 
