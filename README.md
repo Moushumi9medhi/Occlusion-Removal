@@ -1,7 +1,15 @@
 # Occlusion-Removal
 Occlusion Removal from a Single Image
 
-<h2><p align="center">Stable Diffusion Training with MosaicML</p></h2>
+<h2><p align="center">Deep Generative Adversarial Network for Occlusion Removal from a Single Image</p></h2>
+
+<div align="center">
+
+[Sankaraganesh Jonna](https://www.linkedin.com/in/ganeshjonna/), [Moushumi Medhi], [Rajiv Ranjan Sahay](https://www.iitkgp.ac.in/department/EE/faculty/ee-rajiv)
+
+</div>
+
+
 
 <p align="center">
     <a href="https://github.com/Moushumi9medhi/Occlusion-Removal/blob/main/LICENSE">
