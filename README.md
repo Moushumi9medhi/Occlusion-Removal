@@ -25,7 +25,7 @@ This repository provides access to the IITKGP_Fence dataset used in the paper...
 
 
 # IITKGP_Fence dataset
-The IITKGP_Fence dataset can be found here.............link.......It consists of images containing fence-like occlusions along with the ground truth annotations. We created the ground truth labels in a semi-automatic way with user interaction. 
+The dataset consists of images containing fence-like occlusions along with the ground truth annotations. We created the ground truth labels in a semi-automatic way with user interaction. 
 
 <p align="center">
   <picture>
