@@ -19,8 +19,7 @@ Occlusion Removal from a Single Image
 <br />
 
 
-This repository provides access to the IITKGP_Fence dataset used in the paper...............link..... 
-
+This repository provides access to the IITKGP_Fence dataset used in the [paper](https://arxiv.org/abs/placeholder)
 🚀 Explore the dataset [via this link](https://huggingface.co/datasets/NeuroVizv0yaZ3R/IITKGP_Fence_dataset).
 
 
