@@ -36,10 +36,11 @@ The dataset consists of images containing fence-like occlusions along with the g
 # Eval
 <p align="center">
   <video width="80%" controls>
-    <source src="./assets/OccRemoval.mp4" type="video/mp4">
-    Your browser does not support the video tag.
+    <source src="https://raw.githubusercontent.com/Moushumi9medhi/Occlusion-Removal/main/assets/OccRemoval.mp4">
   </video>
 </p>
+
+
 
 
 <p align="center">
