@@ -34,11 +34,11 @@ The dataset consists of images containing fence-like occlusions along with the g
 </p>
 
 # Eval
-<p align="center">
-  <video width="80%" autoplay loop muted playsinline controls>
-    <source src="https://raw.githubusercontent.com/Moushumi9medhi/Occlusion-Removal/main/assets/OccRemoval.webm" type="video/webm">
-  </video>
-</p>
+<div align="center">
+
+https://github.com/Moushumi9medhi/Occlusion-Removal/assets/OccRemoval.mp4
+
+</div>
 
 
 <p align="center">
