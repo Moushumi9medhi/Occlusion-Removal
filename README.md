@@ -34,11 +34,9 @@ The dataset consists of images containing fence-like occlusions along with the g
 </p>
 
 # Eval
-<div align="center">
-
-https://github.com/Moushumi9medhi/Occlusion-Removal/assets/OccRemoval.mp4
-
-</div>
+<p align="center">
+  <img src="./assets/OccRemoval.gif" alt="Occlusion Removal Demo" width="80%">
+</p>
 
 
 <p align="center">
